@@ -38,3 +38,15 @@ python git 03:
 	- механизм распространения и обработки исключений.
 	# selfedu; 31. Инструкция raise и пользовательские исключения.
 		self.message = args[0] if args else None
+		
+python git 04:
+	# Python, Tkinter и SQL: разрабатываем приложение для создания словарей и запоминания 
+	 иностранных слов.
+	 https://github.com/natkaida/wordmatch/tree/main
+	 https://proglib.io/p/python-tkinter-i-sql-razrabatyvaem-prilozhenie-dlya-sozdaniya-
+	 slovarey-i-zapominaniya-inostrannyh-slov-2022-08-08:
+		# Часть 1. Скрипт для создания пользовательского словаря. Создаёт dictionary_my.db
+		# Часть 2. GUI интерфейс и набор CRUD операций для добавления, редактирования и
+		 удаления записей в словаре.
+		# Часть 3. GUI интерфейс и скрипт для проверки правильности сопоставления 
+		 иностранных слов и значений, выведенных в случайном порядке.
